@@ -1,0 +1,20 @@
+database:
+  host: "localhost"
+  port: 5432
+  user: "postgres"
+  password: "password"
+  name: "trendyol_scraper"
+
+kafka:
+  brokers:
+    - "localhost:9092"
+  topic: "price-drops"
+  group_id: "scraper-group"
+
+scraper:
+  base_url: "https://www.trendyol.com"
+  max_depth: 3
+  delay_seconds: 2
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  output_format: "db" # or "json"
+  json_output_path: "./output"

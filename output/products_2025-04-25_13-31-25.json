@@ -1,0 +1,34 @@
+[
+  {
+    "id": 900904457,
+    "name": "iphone 11 Black Luxury Sparkling Glitter Phone Case for iPhone 15 14 13 12 11 Pro Max Plus XR XS Max",
+    "url": "/en/choice/iphone-11-black-luxury-sparkling-glitter-phone-case-for-iphone-15-14-13-12-11-pro-max-plus-xr-xs-max-p-900904457",
+    "brand": "Choice",
+    "brandId": 43953,
+    "merchantId": 966843,
+    "categoryId": 0,
+    "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1615/prod/QC/20241222/00/2dd4d735-af7a-3095-bd4a-8e64632ce919/1_org_zoom.jpg",
+    "ratingScore": {
+      "averageRating": 0,
+      "totalCount": 0
+    },
+    "price": {
+      "sellingPrice": 13.63,
+      "discountedPrice": 13.63,
+      "originalPrice": 6.5,
+      "currency": "AED"
+    },
+    "promotions": [
+      {
+        "id": 15859658,
+        "name": "Free Shipping over 100 AED",
+        "discountType": 7,
+        "promotionEndDate": {}
+      }
+    ],
+    "socialProof": [],
+    "isActive": false,
+    "createdAt": "2025-04-25T13:31:25.034953247+05:00",
+    "updatedAt": "2025-04-25T13:31:25.034953247+05:00"
+  }
+]
